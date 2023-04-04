@@ -6,3 +6,5 @@ Rencana konten
 4. *git
 5. *lavarel
 6. struktur data
+7. github
+8. python
