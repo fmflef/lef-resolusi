@@ -6,3 +6,5 @@ Rencana konten
 4. *git
 5. *lavarel
 6. struktur data
+7. ms office
+8. windows
