@@ -5,3 +5,4 @@ Rencana konten
 3. js
 4. *git
 5. *lavarel
+6. struktur data
